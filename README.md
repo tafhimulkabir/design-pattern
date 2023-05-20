@@ -1,2 +1,2 @@
-<center><h1>DESIGN PATTERN</h1></center>
+# DESIGN PATTERN
 Design Pattern with Code Example
