@@ -9,3 +9,6 @@ Imagine you want to build a house, and you notice that many houses have a simila
 Design patterns come in different types and serve different purposes. Some patterns help with organizing code, some improve communication between different components of a system, and others enhance flexibility and maintainability. They encapsulate proven solutions, making it easier for developers to understand, implement, and modify software systems.
 
 By using design patterns, developers can save time and effort, promote code reusability, and create more robust and scalable applications. They are like tools in a developer's toolbox, helping them tackle common challenges effectively while producing high-quality software.
+
+### Types of Design Patterns
+We can devide design patterns into 3 category
