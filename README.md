@@ -12,3 +12,7 @@ By using design patterns, developers can save time and effort, promote code reus
 
 ### Types of Design Patterns
 We can devide design patterns into 3 category
+
+- Creational
+- Structural
+- Behavioral
