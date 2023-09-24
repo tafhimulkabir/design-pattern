@@ -16,3 +16,11 @@ We can devide design patterns into 3 category
 - Creational
 - Structural
 - Behavioral
+
+|        Creational        |        Structural        |        Behavioral        |
+|--------------------------|--------------------------|--------------------------|
+|   Factory                |                          |                          |
+|   Abstract Factory       |                          |                          | 
+|   Singleton              |                          |                          |
+|   Builder                |                          |                          |
+|   Prototype              |                          |                          |
