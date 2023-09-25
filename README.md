@@ -19,8 +19,10 @@ We can devide design patterns into 3 category
 
 |        Creational        |        Structural        |        Behavioral        |
 |--------------------------|--------------------------|--------------------------|
-|   Factory                |                          |                          |
-|   Abstract Factory       |                          |                          | 
-|   Singleton              |                          |                          |
-|   Builder                |                          |                          |
-|   Prototype              |                          |                          |
+|   Factory                |   Adapter                |                          |
+|   Abstract Factory       |   Bridge                 |                          | 
+|   Singleton              |   Composite              |                          |
+|   Builder                |   Decorator              |                          |
+|   Prototype              |   Facade                 |                          |
+|   -                      |   Flyweight              |                          |
+|   -                      |   Proxy                  |                          |
