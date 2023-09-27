@@ -26,3 +26,6 @@ We can devide design patterns into 3 category
 |   Prototype              |   Facade                 |  Memento                 |
 |   -                      |   Flyweight              |  Observer                |
 |   -                      |   Proxy                  |  Visitor                 |
+|   -                      |   -                      |  Strategy                |
+|   -                      |   -                      |  State                   |
+|   -                      |   -                      |  Template Method         |
