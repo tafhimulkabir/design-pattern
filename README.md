@@ -30,9 +30,6 @@ Design patterns can be divided into three main categories:
   - Facade
   - Flyweight
   - Proxy
-  - Composite
-  - Bridge
-  - Proxy
 
 - **Behavioral Patterns**
   - Chain of Responsibility
