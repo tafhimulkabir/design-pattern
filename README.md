@@ -30,6 +30,7 @@ Design patterns can be divided into three main categories:
   - Facade
   - Flyweight
   - Proxy
+  - Active Record
 
 - **Behavioral Patterns**
   - Chain of Responsibility
@@ -43,4 +44,5 @@ Design patterns can be divided into three main categories:
   - Strategy
   - Template Method
   - Visitor
+  - Null Object
 
