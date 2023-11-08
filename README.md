@@ -46,3 +46,4 @@ Design patterns can be divided into three main categories:
   - Visitor
   - Null Object
 
+### Factory Method
